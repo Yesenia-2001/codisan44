@@ -21,13 +21,6 @@
 .logocolegio{
     margin-left: 20em;
 }
-.titulo{
-    margin-left: 30px;
-    color: aliceblue;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
-    text-align: center;
-}
 .texto-info{
     /*border: 1px solid red;*/
     margin: 0 auto;
@@ -36,7 +29,6 @@
     height: 300px;
     font-family: 'Courier New', Courier, monospace;
     text-align: justify;
-
 }
 #inicio{
     margin-right: 10px;
@@ -111,7 +103,7 @@
     margin-top: 150px;
 }
 footer{
-    background-color: rgb(5, 92, 5);
+    background-color: rgb(4, 66, 4);
     color: aliceblue;
     font-weight: bold;
     height: 200px;

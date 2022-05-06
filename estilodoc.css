@@ -40,10 +40,28 @@
     margin-left: 15px;
     margin-top: 30px;
     font-family: 'Courier New', Courier, monospace;
-
+    text-align: justify;
+}
+.infor-document1{
+    margin-left: 24em;
+    margin-top: -19.6em;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+}
+.infor-document2{
+    margin-left: 48em;
+    margin-top: -25em;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+}
+#img{
+    margin-left: 40px;
+}
+#botonesdescarga{
+    margin-left: 60px;
 }
 footer{
-    background-color: rgb(4, 66, 4);
+    background-color: rgb(17, 74, 17);
     color: aliceblue;
     font-weight: bold;
     height: 200px;
